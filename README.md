@@ -2,6 +2,12 @@
 
 Get a user's ID+USERNAME@noreply.users.github.com email
 
+## Installation
+
+```shell
+gh extension install spenserblack/gh-noreply-email
+```
+
 ## Usage
 
 ```shell
