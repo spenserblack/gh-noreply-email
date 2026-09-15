@@ -1,6 +1,6 @@
 # `gh noreply-email`
 
-Get a user's ID+USERNAME@noreply.users.github.com email
+Get a user's ID+USERNAME@users.noreply.github.com email
 
 ## Installation
 

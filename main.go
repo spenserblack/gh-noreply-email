@@ -34,5 +34,5 @@ func main() {
 		fmt.Fprintln(os.Stderr, err)
 		return
 	}
-	fmt.Printf("%d+%s@noreply.users.github.com\n", response.Id, response.Login)
+	fmt.Printf("%d+%s@users.noreply.github.com\n", response.Id, response.Login)
 }
